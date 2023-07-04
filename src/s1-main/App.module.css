@@ -3,7 +3,11 @@
 }
 
 .hw {
-
+    display: flex;
+    width: 1280px;
+    padding: 131px 0px 34px 0px;
+    justify-content: center;
+    align-items: center;
 }
 
 .hwTitle {
